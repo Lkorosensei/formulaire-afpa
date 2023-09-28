@@ -1,15 +1,16 @@
-h1{
+h1 {
     text-align: center ;
 }
-img{
+img {
     text-align: left top ;
     width: 150px;
     height: 150px;
 }
-form{
+form {
     text-align: center;
 }
 
-p{
+p {
     height: 150px;
+    text-align: center;
 }
